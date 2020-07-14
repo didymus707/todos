@@ -2,7 +2,6 @@
 
 This app is for creating todos; Add todos, cross them when completed and remove them if you are tired of seeing them
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -71,3 +70,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Acknowledgment
+> Traversy Media: React Crash Course
